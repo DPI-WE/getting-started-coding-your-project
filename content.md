@@ -1,23 +1,63 @@
-# Replace with lesson title
+# Getting Started Coding Your Project
 
-Add your content here!
+<div class="mt-2 alert alert-warning">
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+Before getting started, make sure you have already submitted a functional specification and gotten approval from an instructor.
 
-## Heading 1
+</div> 
 
-Use `##` second or greater level headings (HTML `<h2>` and greater).
+Start with a blank Rails application by generating a repository based on [our rails-7-template](https://github.com/new?template_name=rails-7-template&template_owner=appdev-projects).
 
-### Heading 1.1
+Enter `bin/dev` in terminal to start your web server after the setup completes.
 
-Reference images from the `assets/` folder like so:
+**A**lways **B**e **C**ommitting.
 
-```
-![](assets/example-image.png)
-```
+I encourage you to use an Industrial Git Flow (feature branches with pull requests) even though you will likely be the only developer on this project.
 
-You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
+![](assets/dead-inside-guy-pr.png)
 
-```
-![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
-```
+We encourage you to tag an instructor, teaching assistant or classmate to review a pull request and give you feedback.
+
+Remember to Keep it simple 😽
+
+---
+
+Please share your project repository url. It should be something like this: `github.com/<username>/<repo-name>`.
+
+- Enter your repository URL:
+- github.com
+  - Great job!
+- any
+  - Not quite. Make sure the URL looks like: `github.com/<username>/<repo-name>`
+{: .free_text #project_repository_url title="Repository URL" points="1" answer="1" }
+
+
+<div class="alert alert-danger mt-2">
+
+After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit Repository URL".
+
+
+An instructor will provide additional feedback on your submission there.
+</div>
+
+---
+
+Launch as soon as you can so you can start collecting real data and test your hypothesis. Please share your production url after you launch. 
+
+- Enter your production URL
+{: .free_text #project_production_url title="Production URL" points="1" answer="any" }
+
+<div class="alert alert-danger mt-2">
+
+After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit Production URL".
+
+An instructor will provide additional feedback on your submission there.
+</div>
+
+## Resources
+- [How to Build An MVP](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
