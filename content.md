@@ -14,7 +14,7 @@ Enter `bin/dev` in terminal to start your web server after the setup completes.
 
 I encourage you to use an Industrial Git Flow (feature branches with pull requests) even though you will likely be the only developer on this project.
 
-![](assets/dead-inside-guy-pr.png)
+![](/assets/dead-inside-guy-pr.png)
 
 We encourage you to tag an instructor, teaching assistant or classmate to review a pull request and give you feedback.
 
