@@ -24,18 +24,16 @@ Remember to Keep it simple 😽
 
 Please share your project repository url. It should be something like this: `github.com/<username>/<repo-name>`.
 
-- Enter your repository URL:
-- github.com
+- Have you created a repository using the template for your project in GitHub?
+- Yes
   - Great job!
-- any
-  - Not quite. Make sure the URL looks like: `github.com/<username>/<repo-name>`
-{: .free_text #project_repository_url title="Repository URL" points="1" answer="1" }
-
+- No
+  - Please create a repository for your project before continuing.
+{: .choose_best #create_project_repository title="Project Repository" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
-After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit Repository URL".
-
+Please return to Canvas and submit the URL in the assignment "Submit Repository URL".
 
 An instructor will provide additional feedback on your submission there.
 </div>
@@ -44,12 +42,16 @@ An instructor will provide additional feedback on your submission there.
 
 Launch as soon as you can so you can start collecting real data and test your hypothesis. Please share your production url after you launch. 
 
-- Enter your production URL
-{: .free_text #project_production_url title="Production URL" points="1" answer="any" }
+- Have you launched your project?
+- Yes
+  - Great job!
+- No
+  - Please launch your project before continuing.
+{: .choose_best #project_launch title="Project Launch" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
-After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit Production URL".
+Return to Canvas and submit the URL in the assignment "Submit Production URL".
 
 An instructor will provide additional feedback on your submission there.
 </div>
